@@ -1,0 +1,25 @@
+// This is the config sass file for mui-v1's theme (mui = Michael User Interface)
+
+@charset "utf-8";
+
+// $spacing-unit: 30px !default;
+
+// $monochrome-0: #000000;
+// $monochrome-1: #1A1A1A;
+
+// $on-mobile: 650px !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Import partials.
+/*
+@import
+  "mui-v1/syntax-highlighting",
+  "mui-v1/layout",
+  "mui-v1/base"
+;
+*/
