@@ -22,4 +22,4 @@ In conclusion the prototype made outperforms both plain glass samples, plain nan
 ### More information
 You can find a nice visual about the project on my teammates [web site](http://elwinha.com/).
 
-Alternatively you can see our [final presentation](http://github.com/mcleu/mcleu.github.io/reports/FYDP_Presentation.pdf), or our [final report here](http://github.com/mcleu/mcleu.github.io/reports/FYDP_Report.pdf).
+Alternatively you can see our [final presentation](/reports/FYDP_Presentation.pdf), or our [final report here](/reports/FYDP_Report.pdf).

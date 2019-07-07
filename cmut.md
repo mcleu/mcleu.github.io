@@ -17,6 +17,6 @@ Capacitive Micromachined Ultrasound Transducers (CMUT) is a MEMS based ultrasoun
 In the report, I discus about the various membrane deflection estimates that are known, and compare them to FEM models obtained with COMSOL for both circular and square membranes. First the circular model is examined, for which membrane deflection is known and well understood. Next, the square is examined, using deflection profiles given by thin and thick membranes, and finally by the&nbsp;Galerkin method. After validating the Galerkin method, anisotropic silicon is used, and the model is&nbsp;used to validate the&nbsp;Galerkin method, the only method able to account for the anisotropic behavior of silicon.
 
 #### More information
-[You can read our final report.](http://github.com/mcleu/mcleu.github.io/reports/CMUT_Report.pdf)
+[You can read our final report.](/reports/CMUT_Report.pdf)
 
 You can also find more information about CMUT on [Professor Kuri-Yakub’s webpage](http://www-kyg.stanford.edu/khuriyakub/opencms/en/research/cmuts/general/), one of the original inventors of the CMUT.
