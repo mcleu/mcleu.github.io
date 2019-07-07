@@ -1,0 +1,7 @@
+<header>
+	This is the header.
+	<a href="/">home</a>
+	{% for page in site.pages %}
+	<a href="{{ page.permalink }}">{{page.title}}</a>
+	{% endfor %}
+</header>
