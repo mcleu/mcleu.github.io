@@ -16,17 +16,22 @@ permalink: /Publications/
 
 # Peer Reviewed Articles
 
+## 2019
+
+B. Wang, R. Suda, **M. Leung,** M. Yang, J. A. Rodriguez, R. Lee, M. Cappelli, "OpenEM – Electromagnetic field mapping robot for microwave and RF measurements," HardwareX, vol. 5, e00062, Apr. 2019. [doi:10.1016/j.ohx.2019.e00062](http://dx.doi.org/10.1016/j.ohx.2019.e00062)
+
+
 ## 2015
 
-L. Zarnescu, **M. C. Leung,** M. Abeyta, H. Sudkamp, T. Baer, B. Behr, A. K. Ellerbee, “Label-free characterization of vitrification-induced morphology changes in single-cell embryos with full-field optical coherence tomography” Journal of Biomedical Optics, vol. 20(9). pp.096004, Aug. 15. [doi:10.1117/1.JBO.20.9.096004](http://dx.doi.org/10.1117/1.JBO.20.9.096004)
+L. Zarnescu, **M. C. Leung,** M. Abeyta, H. Sudkamp, T. Baer, B. Behr, A. K. Ellerbee, “Label-free characterization of vitrification-induced morphology changes in single-cell embryos with full-field optical coherence tomography,” Journal of Biomedical Optics, vol. 20(9). pp.096004, Aug. 2015. [doi:10.1117/1.JBO.20.9.096004](http://dx.doi.org/10.1117/1.JBO.20.9.096004)
 
 ## 2013
 
-C. Vannahme, **M. C. Leung**, F. Richter, C. L. C. Smith, P. G. Hermannsson, and A. Kristensen, “Nanoimprinted distributed feedback lasers comprising TiO 2 thin films: Design guidelines for high performance sensing,” Laser Photon. Rev., vol. 7, no. 6, pp. 1036–1042, Nov 2013\. 2013. [doi:10.1002/lpor.201300083](http://dx.doi.org/10.1002/lpor.201300083)
+C. Vannahme, **M. C. Leung**, F. Richter, C. L. C. Smith, P. G. Hermannsson, and A. Kristensen, “Nanoimprinted distributed feedback lasers comprising TiO 2 thin films: Design guidelines for high performance sensing,” Laser Photon. Rev., vol. 7, no. 6, pp. 1036–1042, Nov. 2013. [doi:10.1002/lpor.201300083](http://dx.doi.org/10.1002/lpor.201300083)
 
 ## 2012
 
-S. Jin, M. J. Burek, R. D. Evans, Z. Jahed, **M. C. Leung**, N. D. Evans, and T. Y. Tsui, “Fabrication, microstructure, and mechanical properties of high strength cobalt sub-micron structures,” Mater. Sci. Eng. A, vol. 552, pp. 104–111, Aug. 2012\. [doi:10.1016/j.msea.2012.05.015](http://dx.doi.org/10.1016/j.msea.2012.05.015)
+S. Jin, M. J. Burek, R. D. Evans, Z. Jahed, **M. C. Leung**, N. D. Evans, and T. Y. Tsui, “Fabrication, microstructure, and mechanical properties of high strength cobalt sub-micron structures,” Mater. Sci. Eng. A, vol. 552, pp. 104–111, Aug. 2012. [doi:10.1016/j.msea.2012.05.015](http://dx.doi.org/10.1016/j.msea.2012.05.015)
 
 ## 2011
 
@@ -46,9 +51,9 @@ C. Vannahme, C. L. C. Smith, **M. C. Leung**, F. Richter, M. B. Christiansen, an
 
 ## 2015
 
-**Michael C Leung**, L Zarnescu, M Abeyta, T Baer, B Behr, and AK Ellerbee, “Using Full-Field Optical Coherence Tomography to Observe Effects of Vitrification on Pre-implantation Embryos.” Presented at the Stanford Photonics Research Center (SPRC) Symposium, Stanford CA, September 14-16, 2015
+**Michael C Leung**, L Zarnescu, M Abeyta, T Baer, B Behr, and AK Ellerbee, “Using Full-Field Optical Coherence Tomography to Observe Effects of Vitrification on Pre-implantation Embryos.” Presented at the Stanford Photonics Research Center (SPRC) Symposium, Stanford CA, September 14-16, 2015.
 
-**Michael C Leung**, L Zarnescu, M Abeyta, T Baer, B Behr, and AK Ellerbee, “A Label-Free Method of Observing Embryo Morphology Changes Induced by Vitrification Using Full-Field Optical Coherence Tomography.” Presented at the 7th Annual Center for Biomedical Imaging at Stanford (CBIS) Symposium, Stanford CA, April 29, 2015
+**Michael C Leung**, L Zarnescu, M Abeyta, T Baer, B Behr, and AK Ellerbee, “A Label-Free Method of Observing Embryo Morphology Changes Induced by Vitrification Using Full-Field Optical Coherence Tomography.” Presented at the 7th Annual Center for Biomedical Imaging at Stanford (CBIS) Symposium, Stanford CA, April 29, 2015.
 
 # Patents
 
